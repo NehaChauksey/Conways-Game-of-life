@@ -1,0 +1,33 @@
+body {
+  background: #20262E;
+  padding: 20px;
+  font-family: Helvetica;
+
+}
+
+.gridDisplay{
+  background-color: red;
+  width: 450px;
+  height: 300px;
+  
+}
+
+.matR{
+  height: 14px;
+  display: flex;
+}
+
+
+.chR_off{
+  background-color: white;
+  border: 1px solid green;
+  width: 13px;
+ height: 13px; 
+}
+
+.chR_on{
+  background-color: black;
+  border: 1px solid green;
+  width: 13px;
+ height: 13px;
+}
